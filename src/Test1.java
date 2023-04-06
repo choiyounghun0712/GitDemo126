@@ -6,6 +6,8 @@ public class Test1 {
 		int num1=40;
 		int num2=20;
 		
+		
+		
 		//60 = 40 + 20
 		int addResult = num1 + num2;
 		System.out.println("num1+num2="+addResult);
